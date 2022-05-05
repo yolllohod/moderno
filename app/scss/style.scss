@@ -1,0 +1,38 @@
+
+//main start
+
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: gray;
+    display: block;
+}
+
+
+a{
+    padding: 0;
+    li{
+        margin: 0;
+    }
+}
+
+ul{
+    padding: auto;
+    li{
+        margin-top: 0;
+    }
+}
+
+body{
+    border: 100px;
+}
+
+
+//main end
